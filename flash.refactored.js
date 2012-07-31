@@ -1160,10 +1160,10 @@
 		// constructor
 		(function(){
 			flash.MovieClip.call(this);
-			/*self.x = 30;
+			self.x = 30;
 			self.y = 30;
 			self.w = 30;
-			self.h = 30;*/
+			self.h = 30;
 		})();
 	};
 
